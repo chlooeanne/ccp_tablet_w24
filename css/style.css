@@ -65,7 +65,7 @@ nav ul {
     justify-content: center;
     list-style: none;
 }
-nav li, a:visited {
+nav li, a, a:visited {
     justify-content: center;
     padding-left: 1rem;
     color: black;
